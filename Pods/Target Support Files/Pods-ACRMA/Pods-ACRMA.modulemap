@@ -1,0 +1,6 @@
+framework module Pods_ACRMA {
+  umbrella header "Pods-ACRMA-umbrella.h"
+
+  export *
+  module * { export * }
+}
