@@ -15,6 +15,8 @@ From this screen user can register and login to this app, for the user authentic
 ## Login with Facebook 
 <img src="https://user-images.githubusercontent.com/19978447/28743606-3b4a61c8-746b-11e7-9d9b-a774f332d420.png" width="250" height="400">
 
+From this screen user can register and login to this app, for the user authentication i used firbase authentication
+
 ## Login with Twitter 
 <img src="https://user-images.githubusercontent.com/19978447/28743620-6f498544-746b-11e7-84ab-7656a12cf0e7.png" width="250" height="400">
 
