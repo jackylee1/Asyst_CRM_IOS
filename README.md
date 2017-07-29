@@ -5,11 +5,13 @@
   This app is developed for the client of Apogee Tech Global Pvt.Ltd, the main purpose of this app is to handle all the task within the   single app
   
   1. I integrated some API using this API client can login and can generate license for AsystGuard Antivirus to distribute their   customers
-  2. License will be download in xcel file so we can open that access file within the Asyst_CRM app 
-  3. Client also can open contact book, calendar, remainder within the Asyst_CRM app
+  2. License will be download in xcel file, so client can open that access file within the Asyst_CRM app 
+  3. Client can also open contact book, calendar, remainder within the Asyst_CRM app
   4. Client can also call to support team that is available in "contact us" menu item.
   5. Client can also chat with other client from within the AsystCRM app because client can open whatsapp group from within the app.
   6. Client can also see last 10 login and logout timestamp.
+  7. Client can also Email to any one from within the AsystCRM app.
+  
 ## Splash Screen 
 <img src="https://user-images.githubusercontent.com/19978447/28743572-7308ff94-746a-11e7-8fac-57f4158cb268.png" width="250" height="400">
 
