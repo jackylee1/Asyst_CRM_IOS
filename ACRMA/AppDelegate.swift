@@ -29,7 +29,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         FirebaseApp.configure()
         
-        Twitter.sharedInstance().start(withConsumerKey:"WyBtu2JxWdP2bBwxp3Etjnup6",consumerSecret:"cljoxJ6qUJJqynSawpWLyBaZZpeOCCA9ceiWsEhynGoELVWHVb")
+        Twitter.sharedInstance().start(withConsumerKey:"your key",consumerSecret:"your key")
         
 //        Fabric.with([Twitter.self])
         
