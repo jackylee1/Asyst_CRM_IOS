@@ -86,12 +86,12 @@ class BulkLicenceViewController: UIViewController,UIWebViewDelegate {
         
         if myViewController == "Bulk Licence"
         {
-            let url = URL(string: "http://usa.asystguard.com/crmlogin")
+            let url = URL(string: "")
             bulkLicenceWebPage.loadRequest(URLRequest(url: url!))
         }
         if myViewController == "Bulk Assign"
         {
-            let url = URL(string: "http://usa.asystguard.com:81/excel/")
+            let url = URL(string: "")
             bulkLicenceWebPage.loadRequest(URLRequest(url: url!))
         }
         
