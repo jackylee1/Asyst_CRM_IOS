@@ -1,7 +1,7 @@
 # Asyst_CRM_IOS
 
 ## Splash Screen 
-<img src="https://user-images.githubusercontent.com/19978447/28743572-7308ff94-746a-11e7-8fac-57f4158cb268.png" width="250" height="400">
+<img src="https://user-images.githubusercontent.com/19978447/28743572-7308ff94-746a-11e7-8fac-57f4158cb268.png" width="200" height="400">
 
 ## Login Screen
 <img src="https://user-images.githubusercontent.com/19978447/28743581-cef40dee-746a-11e7-9b3b-623a406bb860.png" width="250" height="400">
